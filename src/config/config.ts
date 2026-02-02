@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'vibhi maheshwari',
-    title: 'good',
+    title: 'goodddddddd',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
       'qqqqqqqqqqqqqqqqqqqqqwertyuidefrgthyujki.\n' +
